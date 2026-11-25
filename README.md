@@ -9,8 +9,8 @@ Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de 
 <div align="center">
 
 [![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/andrews-soares-b12449398/)
-<img src="https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="50" height="50"/>
-<img src="https://img.icons8.com/?size=50&id=17949&format=png&color=000000" alt="Google" width="50" height="50"/>
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](#)
+[![Google](https://img.icons8.com/?size=50&id=17949&format=png&color=000000)](#)
 
 </div>
 
