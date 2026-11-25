@@ -69,6 +69,4 @@ Estudo Análise e Desenvolvimento de Sistemas na Unisinos. Desenvolvo projetos c
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AtsuiNat&layout=compact&bg_color=07090e&title_color=5ef0b0&text_color=eef4f1&icon_color=5ef0b0&border_color=1d3a2e)
 
-![Snake animation](https://raw.githubusercontent.com/AtsuiNat/AtsuiNat/output/github-contribution-grid-snake.gif)
-
 </div>
