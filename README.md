@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-Estudo Análise e Desenvolvimento de Sistemas na Unisinos. Desenvolvo projetos com JavaScript, React, Node.js e Express, trabalho em grupo e aprendo rápido. Procuro estágio em desenvolvimento de software, com interesse em back-end.
+Estudante de Análise e Desenvolvimento de Sistemas na Unisinos, com interesse em tecnologia e desenvolvimento de software. Tenho estudado e desenvolvido projetos utilizando diferentes tecnologias, buscando ampliar meus conhecimentos e compreender melhor as possibilidades da área. Gosto de aprender na prática, resolver problemas e trabalhar em equipe.
 
 <div align="center">
 
-[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/andrews-leal-soares-b12449398/)
+[![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/andrews-leal-soares/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](#)
 [![Google](https://img.icons8.com/?size=50&id=17949&format=png&color=000000)](#)
 
@@ -22,7 +22,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Unisinos. Desenvolvo projetos c
 
 | Área | Conhecimento |
 | --- | --- |
-| **Idiomas** | Português nativo, Inglês iniciante, Alemão iniciante |
+| **Idiomas** | Português nativo, Inglês intermediário, Alemão iniciante |
 | **Banco de dados** | Fundamentos de SQL e MySQL |
 
 </div>
