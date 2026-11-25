@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de forma direta e aprendo rápido. Procuro estágio em desenvolvimento de software, com interesse em back-end.
+Estudo Análise e Desenvolvimento de Sistemas na Unisinos. Desenvolvo projetos com JavaScript, React, Node.js e Express, trabalho em grupo e aprendo rápido. Procuro estágio em desenvolvimento de software, com interesse em back-end.
 
 <div align="center">
 
@@ -14,23 +14,16 @@ Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de 
 
 </div>
 
-## Área
-
-### Desenvolvimento de software
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## O que eu uso
+## Tecnologias e Idiomas
 
 <div align="center">
 
 | Área | Conhecimento |
 | --- | --- |
 | **Idiomas** | Português nativo, Inglês iniciante, Alemão iniciante |
-| **Linguagens** | JavaScript, Java e Python |
-| **Front-end** | HTML5, CSS3, React e Bootstrap |
-| **Back-end** | Node.js e Express |
-| **Dados** | SQL e MySQL, em aprendizado |
+| **Banco de dados** | Fundamentos de SQL e MySQL |
 
 </div>
 
@@ -50,13 +43,12 @@ Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Bibliotecas
+## Frameworks e Bibliotecas
 
 <div align="center">
 
 [![React](https://img.icons8.com/?size=50&id=123603&format=png&color=000000)]()
 [![Bootstrap](https://img.icons8.com/?size=50&id=84710&format=png&color=000000)]()
-[![Node.js](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)]()
 
 </div>
 
@@ -66,6 +58,7 @@ Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de 
 
 <div align="center">
 
+[![Node.js](https://img.icons8.com/?size=50&id=54087&format=png&color=000000)]()
 [![VS Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)]()
 
 </div>
@@ -76,6 +69,6 @@ Desenvolvo projetos com JavaScript, React e Node.js. Trabalho em grupo, falo de 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AtsuiNat&layout=compact&bg_color=07090e&title_color=5ef0b0&text_color=eef4f1&icon_color=5ef0b0&border_color=1d3a2e)
 
-![Snake animation](https://raw.githubusercontent.com/AtsuiNat/AtsuiNat/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/AtsuiNat/AtsuiNat/output/github-contribution-grid-snake.gif)
 
 </div>
