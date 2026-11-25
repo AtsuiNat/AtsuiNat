@@ -10,7 +10,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Unisinos desde junho de 2024. E
 
 [![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/andrews-soares-b12449398/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:drewsoares0@gmail.com)
-[![Portfólio](https://img.icons8.com/?size=50&id=17949&format=png&color=000000)](https://atsuunat.github.io/portifolio/)
+[![Portfólio](https://img.icons8.com/?size=50&id=17949&format=png&color=000000)](https://portifolio-andrews-leal-soares.vercel.app/)
 
 </div>
 
