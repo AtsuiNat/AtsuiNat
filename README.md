@@ -24,10 +24,10 @@ Estudo Análise e Desenvolvimento de Sistemas na Unisinos desde junho de 2024. E
 
 | Área | Conhecimento |
 | --- | --- |
-| **Idiomas** | Português nativo, Inglês intermediário, Russo iniciante |
+| **Idiomas** | Português nativo, Inglês iniciante, Alemão iniciante |
 | **Linguagens** | JavaScript, Java, Python, HTML e CSS |
-| **Web** | React, Bootstrap, Express |
-| **Dados** | MySQL e JSON |
+| **Web** | React, Bootstrap, Node.js e Express |
+| **Dados** | SQL e MySQL, em aprendizado |
 
 </div>
 
